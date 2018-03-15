@@ -1,4 +1,14 @@
 img {
-  width: 300px;
-  height: 200px;
+  max-width: 100%;
+}
+.row {
+  text-align: center;
+  margin: auto;
+}
+h2 {
+  text-align: center;
+}
+.col-md-3 {
+  float: none;
+  margin: 0 auto;
 }
